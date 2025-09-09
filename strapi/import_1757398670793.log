@@ -1,6 +1,0 @@
-[2025-09-09 16:17:50.796] warn: (Schema Integrity) api::testimonial.testimonial does not exist on destination
-[2025-09-09 16:17:50.796] warn: (Schema Integrity) admin::api-token.attributes.encryptedKey does not exist on source
-[2025-09-09 16:17:50.797] warn: (Schema Integrity) dynamic-zone.testimonials.info.displayName has a different data type
-[2025-09-09 16:17:50.797] warn: (Schema Integrity) dynamic-zone.testimonials.attributes.testimonials does not exist on destination
-[2025-09-09 16:17:50.797] warn: (Schema Integrity) api::team.team does not exist on source
-[2025-09-09 16:17:50.797] warn: (Schema Integrity) menu.link does not exist on source
